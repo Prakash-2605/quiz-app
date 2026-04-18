@@ -23,4 +23,4 @@ This is a full-stack Quiz Application built using Spring Boot.
 4. Open http://localhost:8082/quiz
 
 ## Author
-Your Name
+Prakash Sapavath
